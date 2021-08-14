@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UltraPolo_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PoloDown0000" x="0" y="0" width="972" height="696"/>
+	<SubTexture name="PoloDown0001" x="972" y="0" width="972" height="696"/>
+	<SubTexture name="PoloDown0002" x="1944" y="0" width="972" height="696"/>
+	<SubTexture name="PoloIdle0000" x="2916" y="0" width="972" height="696"/>
+	<SubTexture name="PoloIdle0001" x="0" y="696" width="972" height="696"/>
+	<SubTexture name="PoloIdle0002" x="972" y="696" width="972" height="696"/>
+	<SubTexture name="PoloIdle0003" x="1944" y="696" width="972" height="696"/>
+	<SubTexture name="PoloIdle0004" x="2916" y="696" width="972" height="696"/>
+	<SubTexture name="PoloIdle0005" x="2916" y="696" width="972" height="696"/>
+	<SubTexture name="PoloLeft0000" x="0" y="1392" width="972" height="696"/>
+	<SubTexture name="PoloLeft0001" x="972" y="1392" width="972" height="696"/>
+	<SubTexture name="PoloLeft0002" x="1944" y="1392" width="972" height="696"/>
+	<SubTexture name="PoloRight0000" x="2916" y="1392" width="972" height="696"/>
+	<SubTexture name="PoloRight0001" x="0" y="2088" width="972" height="696"/>
+	<SubTexture name="PoloRight0002" x="972" y="2088" width="972" height="696"/>
+	<SubTexture name="PoloUp0000" x="1944" y="2088" width="972" height="696"/>
+	<SubTexture name="PoloUp0001" x="2916" y="2088" width="972" height="696"/>
+	<SubTexture name="PoloUp0002" x="0" y="2784" width="972" height="696"/>
+</TextureAtlas>

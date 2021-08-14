@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AlivePolo_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Polo Down0000" x="0" y="0" width="420" height="576"/>
+	<SubTexture name="Polo Down0001" x="420" y="0" width="420" height="576"/>
+	<SubTexture name="Polo Down0002" x="840" y="0" width="420" height="576"/>
+	<SubTexture name="Polo Idle0000" x="1260" y="0" width="420" height="576"/>
+	<SubTexture name="Polo Idle0001" x="1680" y="0" width="420" height="576"/>
+	<SubTexture name="Polo Idle0002" x="2100" y="0" width="420" height="576"/>
+	<SubTexture name="Polo Idle0003" x="2520" y="0" width="420" height="576"/>
+	<SubTexture name="Polo Idle0004" x="2520" y="0" width="420" height="576"/>
+	<SubTexture name="Polo Idle0005" x="2520" y="0" width="420" height="576"/>
+	<SubTexture name="Polo Left0000" x="2940" y="0" width="420" height="576"/>
+	<SubTexture name="Polo Left0001" x="3360" y="0" width="420" height="576"/>
+	<SubTexture name="Polo Left0002" x="0" y="576" width="420" height="576"/>
+	<SubTexture name="Polo Right0000" x="420" y="576" width="420" height="576"/>
+	<SubTexture name="Polo Right0001" x="840" y="576" width="420" height="576"/>
+	<SubTexture name="Polo Right0002" x="1260" y="576" width="420" height="576"/>
+	<SubTexture name="Polo Up0000" x="1680" y="576" width="420" height="576"/>
+	<SubTexture name="Polo Up0001" x="2100" y="576" width="420" height="576"/>
+	<SubTexture name="Polo Up0002" x="2520" y="576" width="420" height="576"/>
+	<SubTexture name="button0000" x="2940" y="576" width="420" height="576"/>
+	<SubTexture name="button0001" x="3360" y="576" width="420" height="576"/>
+	<SubTexture name="button0002" x="0" y="1152" width="420" height="576"/>
+	<SubTexture name="button0003" x="420" y="1152" width="420" height="576"/>
+	<SubTexture name="button0004" x="840" y="1152" width="420" height="576"/>
+	<SubTexture name="button0005" x="1260" y="1152" width="420" height="576"/>
+	<SubTexture name="button0006" x="1680" y="1152" width="420" height="576"/>
+	<SubTexture name="button0007" x="2100" y="1152" width="420" height="576"/>
+	<SubTexture name="button0008" x="2100" y="1152" width="420" height="576"/>
+	<SubTexture name="button0009" x="2520" y="1152" width="420" height="576"/>
+	<SubTexture name="button0010" x="2940" y="1152" width="420" height="576"/>
+	<SubTexture name="button0011" x="3360" y="1152" width="420" height="576"/>
+	<SubTexture name="buttonAperta0000" x="3360" y="1152" width="420" height="576"/>
+	<SubTexture name="buttonAperta0001" x="0" y="1728" width="420" height="576"/>
+	<SubTexture name="buttonAperta0002" x="420" y="1728" width="420" height="576"/>
+	<SubTexture name="buttonAperta0003" x="420" y="1728" width="420" height="576"/>
+	<SubTexture name="buttonAperta0004" x="840" y="1728" width="420" height="576"/>
+	<SubTexture name="buttonAperta0005" x="840" y="1728" width="420" height="576"/>
+	<SubTexture name="buttonAperta0006" x="1260" y="1728" width="420" height="576"/>
+	<SubTexture name="buttonAperta0007" x="1680" y="1728" width="420" height="576"/>
+	<SubTexture name="buttonAperta0008" x="2100" y="1728" width="420" height="576"/>
+	<SubTexture name="buttonAperta0009" x="2520" y="1728" width="420" height="576"/>
+	<SubTexture name="buttonAperta0010" x="2940" y="1728" width="420" height="576"/>
+	<SubTexture name="buttonAperta0011" x="2940" y="1728" width="420" height="576"/>
+	<SubTexture name="buttonAperta0012" x="2940" y="1728" width="420" height="576"/>
+	<SubTexture name="buttonAperta0013" x="2940" y="1728" width="420" height="576"/>
+	<SubTexture name="buttonAperta0014" x="3360" y="1728" width="420" height="576"/>
+	<SubTexture name="buttonAperta0015" x="3360" y="1728" width="420" height="576"/>
+	<SubTexture name="buttonAperta0016" x="0" y="2304" width="420" height="576"/>
+	<SubTexture name="buttonAperta0017" x="420" y="2304" width="420" height="576"/>
+	<SubTexture name="buttonAperta0018" x="840" y="2304" width="420" height="576"/>
+	<SubTexture name="buttonAperta0019" x="1260" y="2304" width="420" height="576"/>
+</TextureAtlas>

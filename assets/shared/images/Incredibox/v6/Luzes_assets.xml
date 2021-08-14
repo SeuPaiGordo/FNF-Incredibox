@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Luzes_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Luz 1 instância 10000" x="0" y="0" width="1331" height="800" frameX="-174" frameY="-40" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10001" x="1331" y="0" width="1331" height="800" frameX="-174" frameY="-40" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10002" x="2662" y="0" width="1331" height="800" frameX="-174" frameY="-40" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10003" x="3993" y="0" width="1331" height="800" frameX="-174" frameY="-40" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10004" x="5324" y="0" width="1331" height="800" frameX="-174" frameY="-40" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10005" x="6655" y="0" width="1331" height="800" frameX="-174" frameY="-40" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10006" x="0" y="800" width="1331" height="800" frameX="-174" frameY="-40" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10007" x="1331" y="800" width="1333" height="802" frameX="-173" frameY="-40" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10008" x="2664" y="800" width="1338" height="811" frameX="-171" frameY="-38" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10009" x="4002" y="800" width="1346" height="825" frameX="-168" frameY="-36" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10010" x="5348" y="800" width="1357" height="844" frameX="-163" frameY="-34" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10011" x="6705" y="800" width="1371" height="869" frameX="-158" frameY="-30" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10012" x="0" y="1669" width="1387" height="898" frameX="-151" frameY="-26" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10013" x="1387" y="1669" width="1405" height="932" frameX="-143" frameY="-22" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10014" x="2792" y="1669" width="1426" height="970" frameX="-133" frameY="-18" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10015" x="4218" y="1669" width="1447" height="1013" frameX="-123" frameY="-13" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10016" x="5665" y="1669" width="1468" height="1059" frameX="-113" frameY="-9" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10017" x="0" y="2728" width="1489" height="1108" frameX="-101" frameY="-5" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10018" x="1489" y="2728" width="1509" height="1159" frameX="-89" frameY="-2" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10019" x="2998" y="2728" width="1525" height="1211" frameX="-77" frameY="-1" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10020" x="4523" y="2728" width="1540" height="1265" frameX="-64" frameY="0" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10021" x="6063" y="2728" width="1549" height="1316" frameX="-52" frameY="-2" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10022" x="0" y="4044" width="1553" height="1364" frameX="-41" frameY="-5" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10023" x="1553" y="4044" width="1551" height="1404" frameX="-32" frameY="-10" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10024" x="3104" y="4044" width="1546" height="1437" frameX="-24" frameY="-16" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10025" x="4650" y="4044" width="1537" height="1463" frameX="-18" frameY="-23" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10026" x="6187" y="4044" width="1524" height="1485" frameX="-14" frameY="-30" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10027" x="0" y="5529" width="1512" height="1501" frameX="-10" frameY="-38" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10028" x="1512" y="5529" width="1498" height="1514" frameX="-7" frameY="-45" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10029" x="3010" y="5529" width="1484" height="1524" frameX="-5" frameY="-52" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10030" x="4494" y="5529" width="1472" height="1532" frameX="-3" frameY="-58" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10031" x="5966" y="5529" width="1460" height="1537" frameX="-2" frameY="-64" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10062" x="0" y="7066" width="1489" height="1108" frameX="-101" frameY="-5" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10063" x="1489" y="7066" width="1469" height="1059" frameX="-112" frameY="-9" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10064" x="2958" y="7066" width="1447" height="1013" frameX="-123" frameY="-13" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10065" x="4405" y="7066" width="1426" height="970" frameX="-133" frameY="-18" frameWidth="1604" frameHeight="1624"/>
+	<SubTexture name="Luz 1 instância 10066" x="5831" y="7066" width="1405" height="932" frameX="-143" frameY="-22" frameWidth="1604" frameHeight="1624"/>
+</TextureAtlas>

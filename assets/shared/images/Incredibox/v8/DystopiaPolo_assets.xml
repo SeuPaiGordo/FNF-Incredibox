@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DystopiaPolo_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Polo Down0000" x="0" y="0" width="536" height="600"/>
+	<SubTexture name="Polo Down0001" x="536" y="0" width="536" height="600"/>
+	<SubTexture name="Polo Down0002" x="1072" y="0" width="536" height="600"/>
+	<SubTexture name="Polo Idle0000" x="1608" y="0" width="536" height="600"/>
+	<SubTexture name="Polo Idle0001" x="2144" y="0" width="536" height="600"/>
+	<SubTexture name="Polo Idle0002" x="2680" y="0" width="536" height="600"/>
+	<SubTexture name="Polo Idle0003" x="3216" y="0" width="536" height="600"/>
+	<SubTexture name="Polo Idle0004" x="0" y="600" width="536" height="600"/>
+	<SubTexture name="Polo Idle0005" x="536" y="600" width="536" height="600"/>
+	<SubTexture name="Polo Left0000" x="1072" y="600" width="536" height="600"/>
+	<SubTexture name="Polo Left0001" x="1608" y="600" width="536" height="600"/>
+	<SubTexture name="Polo Left0002" x="2144" y="600" width="536" height="600"/>
+	<SubTexture name="Polo Right0000" x="2680" y="600" width="536" height="600"/>
+	<SubTexture name="Polo Right0001" x="3216" y="600" width="536" height="600"/>
+	<SubTexture name="Polo Right0002" x="0" y="1200" width="536" height="600"/>
+	<SubTexture name="Polo Up0000" x="536" y="1200" width="536" height="600"/>
+	<SubTexture name="Polo Up0001" x="1072" y="1200" width="536" height="600"/>
+	<SubTexture name="Polo Up0002" x="1608" y="1200" width="536" height="600"/>
+	<SubTexture name="Polo Up0003" x="2144" y="1200" width="536" height="600"/>
+	<SubTexture name="Polo Up0004" x="2680" y="1200" width="536" height="600"/>
+	<SubTexture name="Polo Up0005" x="3216" y="1200" width="536" height="600"/>
+	<SubTexture name="Polo Up0006" x="0" y="1800" width="536" height="600"/>
+	<SubTexture name="Polo Up0007" x="536" y="1800" width="536" height="600"/>
+</TextureAtlas>

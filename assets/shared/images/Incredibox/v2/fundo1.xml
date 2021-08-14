@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fundo1.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg fundo instância 10000" x="0" y="0" width="5324" height="885" frameX="0" frameY="0" frameWidth="6563" frameHeight="885"/>
+	<SubTexture name="bg fundo instância 10001" x="0" y="885" width="5478" height="885" frameX="0" frameY="0" frameWidth="6563" frameHeight="885"/>
+	<SubTexture name="bg fundo instância 10002" x="0" y="1770" width="5633" height="885" frameX="0" frameY="0" frameWidth="6563" frameHeight="885"/>
+	<SubTexture name="bg fundo instância 10003" x="0" y="2655" width="5788" height="885" frameX="0" frameY="0" frameWidth="6563" frameHeight="885"/>
+	<SubTexture name="bg fundo instância 10004" x="0" y="3540" width="5943" height="885" frameX="0" frameY="0" frameWidth="6563" frameHeight="885"/>
+	<SubTexture name="bg fundo instância 10005" x="0" y="4425" width="6098" height="885" frameX="0" frameY="0" frameWidth="6563" frameHeight="885"/>
+	<SubTexture name="bg fundo instância 10006" x="0" y="5310" width="6253" height="885" frameX="0" frameY="0" frameWidth="6563" frameHeight="885"/>
+	<SubTexture name="bg fundo instância 10007" x="0" y="6195" width="6408" height="885" frameX="0" frameY="0" frameWidth="6563" frameHeight="885"/>
+	<SubTexture name="bg fundo instância 10008" x="0" y="7080" width="6563" height="885"/>
+</TextureAtlas>

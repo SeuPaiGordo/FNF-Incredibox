@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="artemiy_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Polo Down0000" x="0" y="0" width="475" height="579"/>
+	<SubTexture name="Polo Down0001" x="475" y="0" width="475" height="579"/>
+	<SubTexture name="Polo Down0002" x="950" y="0" width="475" height="579"/>
+	<SubTexture name="Polo Down0003" x="2375" y="579" width="475" height="579"/>
+	<SubTexture name="Polo Idle0000" x="1425" y="0" width="475" height="579"/>
+	<SubTexture name="Polo Idle0001" x="1900" y="0" width="475" height="579"/>
+	<SubTexture name="Polo Idle0002" x="2375" y="0" width="475" height="579"/>
+	<SubTexture name="Polo Idle0003" x="2850" y="0" width="475" height="579"/>
+	<SubTexture name="Polo Idle0004" x="3325" y="0" width="475" height="579"/>
+	<SubTexture name="Polo Idle0005" x="0" y="579" width="475" height="579"/>
+	<SubTexture name="Polo Idle0006" x="475" y="579" width="475" height="579"/>
+	<SubTexture name="Polo Idle0007" x="475" y="579" width="475" height="579"/>
+	<SubTexture name="Polo Idle0008" x="475" y="579" width="475" height="579"/>
+	<SubTexture name="Polo Left0000" x="950" y="579" width="475" height="579"/>
+	<SubTexture name="Polo Left0001" x="1425" y="579" width="475" height="579"/>
+	<SubTexture name="Polo Left0002" x="1900" y="579" width="475" height="579"/>
+	<SubTexture name="Polo Left0003" x="2375" y="579" width="475" height="579"/>
+	<SubTexture name="Polo Left0004" x="2375" y="579" width="475" height="579"/>
+	<SubTexture name="Polo Right0000" x="2850" y="579" width="475" height="579"/>
+	<SubTexture name="Polo Right0001" x="3325" y="579" width="475" height="579"/>
+	<SubTexture name="Polo Right0002" x="0" y="1158" width="475" height="579"/>
+	<SubTexture name="Polo Right0003" x="475" y="1158" width="475" height="579"/>
+	<SubTexture name="Polo Up0000" x="950" y="1158" width="475" height="579"/>
+	<SubTexture name="Polo Up0001" x="1425" y="1158" width="475" height="579"/>
+	<SubTexture name="Polo Up0002" x="1900" y="1158" width="475" height="579"/>
+	<SubTexture name="Polo Up0003" x="1900" y="1158" width="475" height="579"/>
+	<SubTexture name="SusAnim0000" x="2375" y="1158" width="475" height="579"/>
+	<SubTexture name="SusAnim0001" x="2850" y="1158" width="475" height="579"/>
+	<SubTexture name="SusAnim0002" x="3325" y="1158" width="475" height="579"/>
+	<SubTexture name="SusAnim0003" x="0" y="1737" width="475" height="579"/>
+</TextureAtlas>

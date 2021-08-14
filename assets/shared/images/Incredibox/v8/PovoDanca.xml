@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PovoDanca.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PovoDanca bg instância 10000" x="0" y="0" width="1655" height="802" frameX="0" frameY="-172" frameWidth="1655" frameHeight="1006"/>
+	<SubTexture name="PovoDanca bg instância 10001" x="1655" y="0" width="1655" height="875" frameX="0" frameY="-110" frameWidth="1655" frameHeight="1006"/>
+	<SubTexture name="PovoDanca bg instância 10002" x="0" y="875" width="1655" height="933" frameX="0" frameY="-62" frameWidth="1655" frameHeight="1006"/>
+	<SubTexture name="PovoDanca bg instância 10003" x="1655" y="875" width="1655" height="973" frameX="0" frameY="-28" frameWidth="1655" frameHeight="1006"/>
+	<SubTexture name="PovoDanca bg instância 10004" x="0" y="1848" width="1655" height="998" frameX="0" frameY="-7" frameWidth="1655" frameHeight="1006"/>
+	<SubTexture name="PovoDanca bg instância 10005" x="1655" y="1848" width="1655" height="1006"/>
+</TextureAtlas>

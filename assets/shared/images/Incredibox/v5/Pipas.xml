@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pipas.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pipas0000" x="0" y="0" width="1244" height="746" frameX="0" frameY="-3" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0001" x="1244" y="0" width="1244" height="746" frameX="0" frameY="-3" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0002" x="2488" y="0" width="1245" height="747" frameX="0" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0003" x="3733" y="0" width="1245" height="747" frameX="0" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0004" x="4978" y="0" width="1244" height="747" frameX="-1" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0005" x="6222" y="0" width="1245" height="747" frameX="-1" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0006" x="0" y="747" width="1244" height="746" frameX="-2" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0007" x="1244" y="747" width="1244" height="746" frameX="-3" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0008" x="2488" y="747" width="1245" height="746" frameX="-3" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0009" x="3733" y="747" width="1245" height="746" frameX="-4" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0010" x="4978" y="747" width="1245" height="746" frameX="-5" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0011" x="6223" y="747" width="1244" height="746" frameX="-7" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0012" x="0" y="1493" width="1244" height="746" frameX="-8" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0013" x="1244" y="1493" width="1245" height="747" frameX="-9" frameY="-1" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0014" x="2489" y="1493" width="1245" height="746" frameX="-10" frameY="-1" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0015" x="3734" y="1493" width="1246" height="746" frameX="-11" frameY="-1" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0016" x="4980" y="1493" width="1245" height="746" frameX="-13" frameY="-1" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0017" x="6225" y="1493" width="1246" height="746" frameX="-14" frameY="-1" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0018" x="0" y="2240" width="1245" height="747" frameX="-16" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0019" x="1245" y="2240" width="1246" height="746" frameX="-17" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0020" x="2491" y="2240" width="1246" height="746" frameX="-18" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0021" x="3737" y="2240" width="1246" height="746" frameX="-19" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0022" x="4983" y="2240" width="1246" height="746" frameX="-20" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0023" x="6229" y="2240" width="1245" height="746" frameX="-21" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0024" x="0" y="2987" width="1245" height="746" frameX="-22" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0025" x="1245" y="2987" width="1246" height="746" frameX="-22" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0026" x="2491" y="2987" width="1245" height="746" frameX="-23" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0027" x="3736" y="2987" width="1246" height="746" frameX="-23" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0028" x="4982" y="2987" width="1245" height="746" frameX="-24" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0029" x="6227" y="2987" width="1245" height="746" frameX="-24" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0030" x="0" y="3733" width="1245" height="746" frameX="-24" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0031" x="1245" y="3733" width="1245" height="746" frameX="-24" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0032" x="2490" y="3733" width="1246" height="746" frameX="-23" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0033" x="3736" y="3733" width="1246" height="746" frameX="-23" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0034" x="4982" y="3733" width="1245" height="746" frameX="-23" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0035" x="6227" y="3733" width="1246" height="746" frameX="-22" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0036" x="0" y="4479" width="1245" height="746" frameX="-22" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0037" x="1245" y="4479" width="1245" height="746" frameX="-21" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0038" x="2490" y="4479" width="1246" height="746" frameX="-20" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0039" x="3736" y="4479" width="1246" height="746" frameX="-19" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0040" x="4982" y="4479" width="1245" height="746" frameX="-18" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0041" x="6227" y="4479" width="1245" height="747" frameX="-17" frameY="0" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0042" x="0" y="5226" width="1246" height="746" frameX="-15" frameY="-1" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0043" x="1246" y="5226" width="1245" height="746" frameX="-14" frameY="-1" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0044" x="2491" y="5226" width="1246" height="746" frameX="-12" frameY="-1" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0045" x="3737" y="5226" width="1245" height="746" frameX="-11" frameY="-1" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0046" x="4982" y="5226" width="1245" height="746" frameX="-10" frameY="-1" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0047" x="6227" y="5226" width="1245" height="747" frameX="-9" frameY="-1" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0048" x="0" y="5973" width="1244" height="746" frameX="-8" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0049" x="1244" y="5973" width="1245" height="746" frameX="-6" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0050" x="2489" y="5973" width="1245" height="746" frameX="-5" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0051" x="3734" y="5973" width="1245" height="746" frameX="-4" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0052" x="4979" y="5973" width="1245" height="746" frameX="-3" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0053" x="6224" y="5973" width="1244" height="746" frameX="-3" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0054" x="0" y="6719" width="1244" height="746" frameX="-2" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0055" x="1244" y="6719" width="1245" height="747" frameX="-1" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0056" x="2489" y="6719" width="1244" height="747" frameX="-1" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0057" x="3733" y="6719" width="1245" height="747" frameX="0" frameY="-2" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0058" x="4978" y="6719" width="1245" height="746" frameX="0" frameY="-3" frameWidth="1269" frameHeight="749"/>
+	<SubTexture name="Pipas0059" x="6223" y="6719" width="1244" height="746" frameX="0" frameY="-3" frameWidth="1269" frameHeight="749"/>
+</TextureAtlas>
