@@ -1,0 +1,37 @@
+:PoloNormal:ola
+:bfNormal:beep
+:PoloNormal:veja
+:PoloNormal:isso é eu normal
+:PoloAssustado:isso é eu assustado
+:PoloAtento:isso é eu atento
+:PoloDeboche:isso é eu do deboche
+:PoloDuvida:isso é eu duvidano
+:PoloFeliz:isso é eu feliz
+:PoloTedio:isso é eu no tédio
+:gf:massa
+:bfNormal:beep
+:PoloNormal:agora tem o resto
+:v2normal:ola
+:v2normal:isso é eu normal
+:v2feliz:isso é eu feliz
+:v2finalraiva:isso é eu com raiva
+:v2final:isso é eu com raiva mas com a boca fechada
+:v3:ola
+:v4feliz:isso é eu feliz
+:v4normal:isso é eu normal
+:v4preocupado:isso é eu preocupado
+:v5normal:ola
+:v5normal:isso é eu normal
+:v5assustado:isso é eu assustado
+:v5feliz:isso é eu feliz
+:v6:quero saber disso não
+:v7normal:isso é eu normal
+:v7feliz:isso é eu feliz
+:v8normal:eu sou o últime né?
+:v8normal:isso é eu normal
+:v8assustado:isso é eu assustado
+:v8feliz:isso é eu feliz
+:PoloFeliz:e aí oq tu achou?
+:gf:ta legal
+:gf:oq vc achou mozão?
+:bfShit:beeep
