@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialoguebox.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dialoguebox0000" x="0" y="0" width="1272" height="262"/>
+	<SubTexture name="dialogueboxAnim0000" x="1272" y="0" width="167" height="58" frameX="0" frameY="0" frameWidth="1272" frameHeight="262"/>
+	<SubTexture name="dialogueboxAnim0001" x="0" y="262" width="632" height="144" frameX="-1" frameY="0" frameWidth="1272" frameHeight="262"/>
+	<SubTexture name="dialogueboxAnim0002" x="632" y="262" width="945" height="201" frameX="0" frameY="0" frameWidth="1272" frameHeight="262"/>
+	<SubTexture name="dialogueboxAnim0003" x="0" y="463" width="1134" height="236" frameX="0" frameY="0" frameWidth="1272" frameHeight="262"/>
+	<SubTexture name="dialogueboxAnim0004" x="0" y="699" width="1231" height="254" frameX="0" frameY="0" frameWidth="1272" frameHeight="262"/>
+	<SubTexture name="dialogueboxAnim0005" x="0" y="953" width="1267" height="261" frameX="0" frameY="0" frameWidth="1272" frameHeight="262"/>
+	<SubTexture name="dialogueboxAnim0006" x="0" y="1214" width="1272" height="262"/>
+</TextureAtlas>
